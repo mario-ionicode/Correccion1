@@ -81,7 +81,7 @@ a.button, button, input[type="button"] {
 }
 
 fieldset {
-  border: 1px solid var(--black);
+  border: 1px solid black;
 }
 
 input:not([type="checkbox"]):not([type="radio"]), textarea, select {
@@ -91,7 +91,7 @@ input:not([type="checkbox"]):not([type="radio"]), textarea, select {
 }
 
 .success {
-  border: 1px solid var(--green);
+  border: 1px solid z;
 }
 
 h1,
@@ -100,7 +100,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: var(--grey);
+  color: white;
   margin-top: 0;
   line-height: 1;
   text-shadow: var(--text-shadow);
